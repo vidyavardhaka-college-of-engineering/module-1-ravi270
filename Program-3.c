@@ -2,9 +2,8 @@
 //OUTPUT: Product = 2.69
 #include <stdio.h>
 int main() 
-    //correct the code
-    double a,b,product;
-    //printf("Enter two numbers: ");
+    {//correct the code
+    double a,b,produc//printf("Enter two numbers: ");
     scanf("%lf%lf",a,b);  //correct the code
      // Calculating product
     product = a * b;
